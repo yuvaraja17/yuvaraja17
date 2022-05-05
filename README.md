@@ -7,7 +7,7 @@ IT Students
 * 🌍  I'm based in Namakkal. TamilNadu, India
 * ✉️  You can contact me at [myuvaraja17@gmail.com](mailto:myuvaraja17@gmail.com)
 * 🧠  I'm learning React,Mongodb
-* 🤝  I'm open to collaborating on Interesting Project on New Ideas
+* 🤝  I'm open to collaborating on Interesting Project and on New Ideas
 
 <a href="https://www.github.com/Yuva17yuva" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Yuva17yuva?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
